@@ -747,7 +747,7 @@ void test_split(){
 
   //测试函数 一
 int main(){
-  //  freopen("D:\\123.txt","r",stdin);
+    freopen("D:\\123.txt","r",stdin);
     BBSTree t;
     InitAVL(t);
     Status tall;
